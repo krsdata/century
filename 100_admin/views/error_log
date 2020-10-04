@@ -1,0 +1,8 @@
+[04-Oct-2019 08:23:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 16
+[04-Oct-2019 08:23:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 17
+[20-Oct-2019 16:31:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 16
+[20-Oct-2019 16:31:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 17
+[21-Oct-2019 04:19:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 16
+[21-Oct-2019 04:19:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 17
+[21-Oct-2019 14:02:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 16
+[21-Oct-2019 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/matchonsports/public_html/mos_admin/views/generateCSVpage.php on line 17

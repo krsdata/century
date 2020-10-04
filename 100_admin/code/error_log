@@ -1,0 +1,45 @@
+[20-Oct-2019 12:06:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'matchons_cric_1'@'localhost' (using password: YES) in /home/matchonsports/public_html/mos_admin/db/config.php on line 9
+[20-Oct-2019 12:06:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'matchons_cric_1'@'localhost' (using password: YES) in /home/matchonsports/public_html/mos_admin/db/config.php on line 9
+[16-Nov-2019 20:35:44 UTC] PHP Warning:  mysqli_rollback() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/code/match_delete.php on line 35
+[20-Nov-2019 03:43:38 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:43:38 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:43:38 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:43:38 UTC] PHP Warning:  mysqli_rollback() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 34
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:45:58 UTC] PHP Warning:  mysqli_rollback() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 34
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 20
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 21
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 22
+[20-Nov-2019 03:49:57 UTC] PHP Warning:  mysqli_rollback() expects parameter 1 to be mysqli, null given in /home/matchonsports/public_html/mos_admin/code/grand_league.php on line 34
